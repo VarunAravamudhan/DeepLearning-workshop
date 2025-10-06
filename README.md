@@ -1,6 +1,7 @@
 # DeepLearning-workshop
 
 
+
 ## Aim
 To implement and train a Neural Network model using PyTorch for the classification of income levels (`>50K` or `<=50K`) from a census dataset.  
 This project demonstrates an end-to-end workflow covering data preprocessing, feature encoding, model design, training, evaluation, and single-instance inference.
