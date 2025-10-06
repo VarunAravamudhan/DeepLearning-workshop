@@ -330,6 +330,10 @@ if __name__ == '__main__':
 ### DATA PREPROCESSING
 <img width="1288" height="53" alt="image" src="https://github.com/user-attachments/assets/438249d0-5b53-46e6-ba4e-d9af36e52a55" />
 
+### EVALUATION
+
+<img width="185" height="67" alt="image" src="https://github.com/user-attachments/assets/41425bdd-bc01-4aa2-a696-10318f409965" />
+
 ### SAMPLE PREDICTION
 <img width="1553" height="53" alt="image" src="https://github.com/user-attachments/assets/1725446c-1dff-40d5-a964-6bd9622a3653" />
 
